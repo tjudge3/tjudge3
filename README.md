@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋, I'm Tom</h1>
-<h3 align="center">This is my school account and a repo of my school projects. The below technologies are ones I've used in my school projects and assignments..</h3>
+<h3 align="center">This is my school account and a repo of my school projects.</h3>
 
 <p align="left">
 </p>
