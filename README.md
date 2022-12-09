@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <br><br><br><br><br>
 <h5 id="note1">* Some of my Professors encourage us to publish our previous assignments on github, those are the public ones listed. The ones who ask us not to, are private on here.</h5>
 
-<p>The assignments for DSA and Python are (mostly) each their own repo. The assignments for <a href="../../../CS104-CS204">Intro and Intermediate Java</a>, and <a href="../../../CS110-CS210">Intro and Intermediate C++</a> are in one single repo each.</p>
+<p>The assignments for DSA and Python are (mostly) each in their own repo. The assignments for <a href="../../../CS104-CS204">Intro and Intermediate Java</a>, as well as <a href="../../../CS110-CS210">Intro and Intermediate C++</a> combined into one repo each.</p>
 
 <h4 align="left"></h4>
