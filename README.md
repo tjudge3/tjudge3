@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋, I'm Tom</h1>
-<h3 align="center">This is my school account and a repo of most<a href="#note1">*</a> of my school projects.</h3>
+<h3 align="center">This is my school/personal account, here you can find repo's of most<a href="#note1">*</a> of my school projects.</h3>
 
 <p align="left">
 </p>
