@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi 👋, I'm Tom</h1>
+<h1 align="left">Hi <img src="https://github.com/tjudge3/tjudge3/blob/main/assets/images/gifs/waving_hand.gif" alt="waving hand" width="40" height="40"/>, I'm Tom</h1> 
 <h3 align="center">This is my school/personal account, here you can find repo's of most<a href="#note1">*</a> of my school projects.</h3>
 
 <p align="left">
