@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 <p>The assignments for DSA are (mostly) each in their own repo as are any "pinned" ones. The assignments for <a href="../../../CS104-CS204">Intro and Intermediate Java</a>, as well as <a href="../../../CS110-CS210">Intro and Intermediate C++</a> combined into one repo each. Beyond those, most courses or projects are listed under a parent repo per course/project. Originally each assignment, lab and project had its own repo (during active development), but that resulted in so many repos which became unmanageable.</p>
 
+<p>A little bit about my environment: For the jvm based languages, I use IntelliJ. Mostly on that front, I develop in Java more than any others. Previously, I used eclipse, but I have definitely become an IntelliJ convert. For Python, I use PyCharm. Like many people, I started with python by using IDLE and I still recommend IDLE for beginners. For C/C++ I use eclipse still, but have been trying to make the switch to CLion. For PHP, JS (and similar languages), HTML5/CSS3, and anything "new" that I'm playing with these days, I use VSC. In a similar vein, professional or in group colab environments, I almost always find myself working with VSC. </p>
+
 <h4 align="left"></h4>
