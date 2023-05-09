@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <br><br><br><br><br>
 <h5 id="note1">* Some of my Professors encourage us to publish our previous assignments on github, those are the public ones listed. The ones who ask us not to, are private on here. Currently, most of my personal projects are private on here, until I better organize them.</h5>
 
-<p>For the sake of brevity, here, I've relocated any other information like the above to its <a href="../../../notitia">own repo</a>. Including an <a href="../../../notitia/blob/main/repos-explained.md">explaination</a> of how I structure many of my repos.</p>
+#<p>For the sake of brevity, here, I've relocated any other information like the above to its <a href="../../../notitia">own repo</a>. Including an <a #href="../../../notitia/blob/main/repos-explained.md">explaination</a> of how I structure many of my repos.</p>
 
 <h4 align="left"></h4>
