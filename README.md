@@ -4,7 +4,7 @@
 **tjudge3/tjudge3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 </a><h1 align="left">Hi 👋, I'm Tom</h1> 
-<h3>A Full stack, Software Engineer in the Northeast</h3>
+<h3>A Student and Full stack, Software Engineer in the Northeast</h3>
 
 <p align="left">
 </p>
