@@ -24,4 +24,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 <br><br><br><br><br>
-<h4></h4>With a few exceptions this is where I upload my projects when I'm done. </h4>
