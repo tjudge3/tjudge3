@@ -6,6 +6,7 @@
 </a><h1 align="left">Hi 👋, I'm Tom</h1> 
 
 <p align="left">
+  I am a software enthusiast.
 </p>
 
 <h3>Languages I've been working with:</h3>
